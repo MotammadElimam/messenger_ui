@@ -212,7 +212,7 @@ Widget buildChatItem() => Row(
                     "Hello This a random Text , how are you? , and what are you doing?",
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
-                  ),
+                  )
                 ),
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 10.0),
